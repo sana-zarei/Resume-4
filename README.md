@@ -12,7 +12,6 @@
 <ul style="list-style-type:none;" dir="rtl">
     <li><input type="checkbox" checked disabled> - [x] انتشار نسخه اولیه وبسایت </li>
   <li><input type="checkbox" checked disabled> - [x] انتخاب اتوماتیک تم لایت و دارک بر اساس ساعت </li>
-    <li><input type="checkbox" checked> - [ ] رفع مشکل خروجی </li>
     <li><input type="checkbox" checked> - [ ] بهینه‌سازی برای SEO </li>
     <li><input type="checkbox" checked> - [ ] بهینه‌سازی عملکرد وبسایت </li>
     <li><input type="checkbox" checked> - [ ] به‌روزرسانی مداوم محتوا </li>
